@@ -8,7 +8,7 @@ namespace ConsoleAppForCompany
     {
         Double totalAmt = 0;
 
-        public void GetTotalAmountWithPromotions(Double AUnits,Double BUnits,Double CUnits, Double DUnits)
+        public double GetTotalAmountWithPromotions(Double AUnits,Double BUnits,Double CUnits, Double DUnits)
         {
 
         }
@@ -17,9 +17,13 @@ namespace ConsoleAppForCompany
 
     public static class Utility
     {
-        public static void Calculate()
+        static double totalDiscountItem = 0, totalActualItems = 0;
+        public static double Calculate(int AcutalPrice , int DiscountPrice, double Units, int UnitsWithDiscount)
         {
+            totalDiscountItem = Math.Floor(Units / UnitsWithDiscount);
+            totalActualItems = Units % UnitsWithDiscount;
 
+            return totalActualItems * AcutalPrice + totalDiscountItem * DiscountPrice;
         }
 
     }

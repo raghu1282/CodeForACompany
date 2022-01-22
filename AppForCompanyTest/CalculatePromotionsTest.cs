@@ -1,8 +1,8 @@
-using NUnit.Framework;
+﻿using NUnit.Framework;
 
 namespace AppForCompanyTest
 {
-    public class Tests
+    public class CalculatePromotionsTest
     {
         [SetUp]
         public void Setup()
@@ -10,7 +10,7 @@ namespace AppForCompanyTest
         }
 
         [Test]
-        public void Test1()
+        public void CalculateTest()
         {
             Assert.Pass();
         }
