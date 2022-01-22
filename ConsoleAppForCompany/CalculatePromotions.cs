@@ -11,6 +11,7 @@ namespace ConsoleAppForCompany
         public double GetTotalAmountWithPromotions(Double AUnits,Double BUnits,Double CUnits, Double DUnits)
         {
 
+            return totalAmt;
         }
 
     }
