@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "ConsoleAppForCompany/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ConsoleAppForCompany.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleAppForCompany.dll": {}
+        }
       }
     }
   },
@@ -4613,10 +4623,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "ConsoleAppForCompany/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleAppForCompany/ConsoleAppForCompany.csproj",
+      "msbuildProject": "../ConsoleAppForCompany/ConsoleAppForCompany.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "ConsoleAppForCompany >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1"
@@ -4653,7 +4669,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\CodeForACompany\\CodeForACompany\\ConsoleAppForCompany\\ConsoleAppForCompany.csproj": {
+              "projectPath": "E:\\CodeForACompany\\CodeForACompany\\ConsoleAppForCompany\\ConsoleAppForCompany.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

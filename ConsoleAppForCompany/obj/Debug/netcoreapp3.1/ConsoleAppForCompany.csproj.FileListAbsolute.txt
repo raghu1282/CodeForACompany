@@ -1,0 +1,14 @@
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\bin\Debug\netcoreapp3.1\ConsoleAppForCompany.exe
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\bin\Debug\netcoreapp3.1\ConsoleAppForCompany.deps.json
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\bin\Debug\netcoreapp3.1\ConsoleAppForCompany.runtimeconfig.json
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\bin\Debug\netcoreapp3.1\ConsoleAppForCompany.runtimeconfig.dev.json
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\bin\Debug\netcoreapp3.1\ConsoleAppForCompany.dll
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\bin\Debug\netcoreapp3.1\ConsoleAppForCompany.pdb
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\obj\Debug\netcoreapp3.1\ConsoleAppForCompany.csproj.AssemblyReference.cache
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\obj\Debug\netcoreapp3.1\ConsoleAppForCompany.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\obj\Debug\netcoreapp3.1\ConsoleAppForCompany.AssemblyInfoInputs.cache
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\obj\Debug\netcoreapp3.1\ConsoleAppForCompany.AssemblyInfo.cs
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\obj\Debug\netcoreapp3.1\ConsoleAppForCompany.csproj.CoreCompileInputs.cache
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\obj\Debug\netcoreapp3.1\ConsoleAppForCompany.dll
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\obj\Debug\netcoreapp3.1\ConsoleAppForCompany.pdb
+E:\CodeForACompany\CodeForACompany\ConsoleAppForCompany\obj\Debug\netcoreapp3.1\ConsoleAppForCompany.genruntimeconfig.cache
